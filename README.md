@@ -1,4 +1,4 @@
-# AZ-900 Azure Fundamentals Certification Exam Prep Repository (az-900-exam-prep)
+# AZ-900 Azure Fundamentals Certification Exam Prep Repository (az-900-exam)
 
 ## Cloud Benefits
 
